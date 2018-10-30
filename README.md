@@ -1,2 +1,2 @@
 # HistoireSansFin
-un projet en NodeJS type histoire dont vous étes le héros mais ou l'histoire est écrite par les joueurs
+Jeu multijoueur en ligne de commande dans le style "l'histoire dont vous étes le héros" avec NodeJS.
