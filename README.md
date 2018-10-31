@@ -1,2 +1,2 @@
 # HistoireSansFin
-Jeu multijoueur en ligne de commande dans le style "l'histoire dont vous étes le héros" avec NodeJS.
+Jeu multijoueur "Histoire dont vous êtes le héros"  fonctionnant en ligne de commande écrit en NodeJS.
