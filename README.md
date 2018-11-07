@@ -4,7 +4,7 @@ Jeu multijoueur "Histoire dont vous êtes le héros"  fonctionnant en ligne de c
 ## Scenario:
 Dans ce jeu, vous jouez un employé lambda qui se retrouve à travailler pour une entreprise s'appellant HistoireCompany dont l'objectif
 est d'écrire une histoire qui ne finit jamais. Ce scénario sera visible dans le tchat. (vos supérieurs fictifs vous donneront des ordres).
-Le scénario de l'histoite est écrit par les joueurs.
+Le scénario de l'histoire sans fin est écrit par les joueurs.
 
 ## Version Alpha -A venir
 version présentant les fonctionnalités de la version final sans le coté multijoueur proposant les fonctionnalités suivantes:
