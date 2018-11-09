@@ -12,6 +12,10 @@ version présentant les fonctionnalités de la version finale sans le coté mult
 * Voir des messages dans le tchat
 * Scenario écrit spécialement pour l'alpha (tchat+chapitres)
 
+## téléchargement et lancement
+appuyez sur le bouton "Clone and Download" pour lancer le téléchargement.
+dézipper le dossier "histoiresansfin-master" et ouvrez hsf-launcher.exe pour lancer le jeu.
+
 ## M'aider
 Je n'ai pour le moment besoin d'aide financière ou salariale. La seule aide utile pour le moment est de me donner votre avis sur les différentes versions du jeu qui vont sortir.
 
