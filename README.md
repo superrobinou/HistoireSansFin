@@ -6,11 +6,8 @@ Dans ce jeu, vous jouez un employé qui se retrouve à travailler pour une entre
 est d'écrire une histoire qui ne finit jamais. Vos supérieurs vous donneront des ordres par un tchat.
 Comme tous les autres employés du secteur scénario, votre objectif est d'écrire une partie de l'histoire qui ne finit jamais.
 
-## Version Alpha -A venir
-version présentant les fonctionnalités de la version finale sans le coté multijoueur proposant les fonctionnalités suivantes:
-* Lire des chapitres de l'histoire et leurs choix et en ajouter
-* Voir des messages dans le tchat
-* Scenario écrit spécialement pour l'alpha (tchat+chapitres)
+## Versions
+voir changelog
 
 ## téléchargement et lancement
 appuyez sur le bouton "Clone and Download" pour lancer le téléchargement.
